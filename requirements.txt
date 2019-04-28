@@ -1,0 +1,8 @@
+scipy
+numpy
+tqdm
+pypinyin
+jieba
+jieba_fast
+cython
+python-Levenshtein
